@@ -1,3 +1,3 @@
 #Seven More Languages in Seven Weeks
 - Returned: 11 Sep 2016
-  - Completed up to ELM Day 1
+  - Completed Lua Day1,2,3, Factor Day1,2,3, Elm Day1
